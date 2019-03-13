@@ -13,7 +13,7 @@ connect github repo
 ## test
 localhost:3000/users
 
-ctrl D (stop)
+ctrl C (stop)
 
 git start (check localhost )
 
