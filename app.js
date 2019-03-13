@@ -6,7 +6,7 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
-// add this part
+
 var app = express();
 const port =process.env.PORT || 3000;
 
@@ -18,7 +18,6 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
-
 //this is where express stores web files => css js images etc...
 app.use(express.static(path.join(__dirname, 'public')));
 

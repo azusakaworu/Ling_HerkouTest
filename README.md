@@ -1,2 +1,0 @@
-# Ling_HerkouTest
-hw
