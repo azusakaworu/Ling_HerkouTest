@@ -3,17 +3,17 @@ const data ={
     role:"students",
 
     user1:{
-        name:"swk",
-        role:"dashixiong",
-        bio:"info goes here",
-        bioPic:""
+        name:"Cat",
+        role:"How look like my big face?",
+        bio:"slepp everyday look at the images",
+        bioPic:"miao.jpg"
     },
 
     user2:{
-        name:"zbj",
-        role:"ershixiong",
-        bio:"info goes herepupu",
-        bioPic:""
+        name:"whatMan",
+        role:"No idea",
+        bio:"Always asking quesitons..",
+        bioPic:"what.jpg"
     }
 
 
