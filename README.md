@@ -19,5 +19,3 @@ npm start (check localhost )
 
 after git push to branch and merge to  master ,check the heroko online websites
 
-
-
