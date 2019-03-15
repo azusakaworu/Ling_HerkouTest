@@ -18,7 +18,18 @@ const data ={
         bioPic:"fram.jpeg",
         pro:"wine-Mashup.png",
         introText:"I designed the wine label and put it to a 3D wine bottle with photoshop."
+    },
+
+    user3:{
+        name:"Hahahah Test Test",
+        role:"Some ideas",
+        bio:"Fake Furniture",
+        bioPic:"profile.jpg",
+        pro:"parent1.jpg",
+        introText:"A photo from a photo website.Not mine."
     }
+
+
 
 
 };
