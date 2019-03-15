@@ -5,15 +5,19 @@ const data ={
     user1:{
         name:"Cat",
         role:"How look like my big face?",
-        bio:"slepp everyday look at the images",
-        bioPic:"miao.jpg"
+        bio:"3D PINK CAT",
+        bioPic:"miao.jpg",
+        pro:"BIG-PINK500.jpg",
+        introText:"This is a rebuild 3D models that I followed a online tutorio and it spend my 1 month to do it."
     },
 
     user2:{
-        name:"whatMan",
+        name:"WhatMan",
         role:"No idea",
-        bio:"Always asking quesitons..",
-        bioPic:"what.jpg"
+        bio:"Wine Mashup",
+        bioPic:"fram.jpeg",
+        pro:"wine-Mashup.png",
+        introText:"I designed the wine label and put it to a 3D wine bottle with photoshop."
     }
 
 

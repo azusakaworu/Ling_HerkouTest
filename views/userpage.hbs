@@ -1,6 +1,30 @@
-<h1>{{name}}</h1>
+<h1 id="nameTitle">{{name}}</h1>
 <h4>{{role}}</h4>
 
-<p>{{bio}}</p>
-<img src="/images/{{bioPic}}" alt="user images">
+<p id="nameSub">{{bio}}</p>
+
+
+
+
+<div class="container">
+  <div class="row">
+      <div class="col-sm-4">
+
+          <div class="card" style="width: 12rem;">
+   <img src="/images/{{bioPic}}" alt="user images" class="card-img-top">
+  <div class="card-body">
+    <p class="card-text">{{introText}}</p>
+  </div>
+</div>
+</div>
+
+
+      <div class="col-sm-7 shadow p-3 mb-5 bg-white rounded" id="imgcard">
+          <img src="/images/{{pro}}" alt="product images">
+      </div>
+  </div>
+</div>
+
+
+
 {{!-- public imagesfolder 前面须有有斜杠 --}}
